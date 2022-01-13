@@ -1,0 +1,25 @@
+body {
+  font-family: cursive;
+  text-align: center;
+
+  background: #bbfcc6;
+  color: black;
+}
+h2 {
+  padding: 1em;
+  font-size: 34px;
+}
+h1 {
+  padding-bottom: rem;
+  font-size: 30px;
+}
+.btn {
+  padding: 0.5rem;
+  margin: 1rem;
+  border-radius: 5px;
+  background: #1ba82e;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
