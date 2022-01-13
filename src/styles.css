@@ -5,6 +5,12 @@ body {
   background: #bbfcc6;
   color: black;
 }
+.container {
+  max-width: 70vw;
+  margin: 6em auto;
+  box-shadow: 3px 4px green;
+  background-color: rgb(233, 255, 237);
+}
 h2 {
   padding: 1em;
   font-size: 34px;
